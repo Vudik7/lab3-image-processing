@@ -134,7 +134,7 @@
 
 |**С шумом**|**Эрозия**|**Разностное**|
 |-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.09_screen2.png)|![Eroded](results/eroded/with_salt_0.5_0.09_screen2_eroded.jpgg)|![Diff](results/diff/with_salt_0.5_0.09_screen2_diff.jpg)|
+|![With Salt](with_salt/with_salt_0.5_0.09_screen2.png)|![Eroded](results/eroded/with_salt_0.5_0.09_screen2_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.09_screen2_diff.jpg)|
 
 ---
 
