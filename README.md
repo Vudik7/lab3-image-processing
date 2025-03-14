@@ -34,7 +34,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/cat.jpg)
+![Original](images/cat.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -53,7 +53,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/cat.jpg)
+![Original](images/cat.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -72,7 +72,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/cat_invert.jpg)
+![Original](images/cat_invert.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -91,7 +91,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/cat_invert.jpg)
+![Original](images/cat_invert.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -110,7 +110,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/cat2.jpg)
+![Original](images/cat2.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -129,7 +129,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/screen2.png)
+![Original](images/screen2.png)
 
 - #### Изображение с шумом и перцем
 
@@ -154,7 +154,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/spiral1.png)
+![Original](images/spiral1.png)
 
 - #### Изображение с шумом и перцем
 
@@ -179,7 +179,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/text1.jpg)
+![Original](images/text1.jpg)
 
 - #### Изображение с шумом и перцем
 
@@ -204,7 +204,7 @@
 
 - #### Исходное изображение
 
-![Original](../images/pixel_art.jpg)
+![Original](images/pixel_art.jpg)
 
 - #### Изображение с шумом и перцем
 
