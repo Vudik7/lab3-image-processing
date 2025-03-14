@@ -40,11 +40,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.05_cat.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.05_cat.jpg)|![Eroded](results/eroded/with_salt_0.5_0.05_cat_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.05_cat_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.05_cat_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.05_cat_diff.jpg)
 
 ---
 
@@ -58,11 +60,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.3_cat.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.3_cat.jpg)|![Eroded](results/eroded/with_salt_0.5_0.3_cat_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.3_cat_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.3_cat_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.3_cat_diff.jpg)
 
 ---
 
@@ -76,11 +80,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.05_cat_invert.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.05_cat_invert.jpg)|![Eroded](results/eroded/with_salt_0.5_0.05_cat_invert_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.05_cat_invert_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.05_cat_invert_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.05_cat_invert_diff.jpg)
 
 ---
 
@@ -94,11 +100,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.3_cat_invert.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.3_cat_invert.jpg)|![Eroded](results/eroded/with_salt_0.5_0.3_cat_invert_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.3_cat_invert_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.3_cat_invert_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.3_cat_invert_diff.jpg)
 
 ---
 
@@ -112,11 +120,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.05_cat2.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.05_cat2.jpg)|![Eroded](results/eroded/with_salt_0.5_0.05_cat2_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.05_cat2_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.05_cat2_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.05_cat2_diff.jpg)
 
 ---
 
@@ -130,11 +140,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.09_screen2.png)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.09_screen2.png)|![Eroded](results/eroded/with_salt_0.5_0.09_screen2_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.09_screen2_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.09_screen2_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.09_screen2_diff.jpg)
 
 ---
 
@@ -148,11 +160,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.1_spiral1.png)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.1_spiral1.png)|![Eroded](results/eroded/with_salt_0.5_0.1_spiral1_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.1_spiral1_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.1_spiral1_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.1_spiral1_diff.jpg)
 
 ---
 
@@ -166,11 +180,13 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.1_text1.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.1_text1.jpg)|![Eroded](results/eroded/with_salt_0.5_0.1_text1_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.1_text1_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.1_text1_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.1_text1_diff.jpg)
 
 ---
 
@@ -184,8 +200,10 @@
 
     ![With Salt](with_salt/with_salt_0.5_0.05_pixel_art.jpg)
 
-### Задание
+- #### Эрозия
 
-|**С шумом**|**Эрозия**|**Разностное**|
-|-----------|----------|--------------|
-|![With Salt](with_salt/with_salt_0.5_0.05_pixel_art.jpg)|![Eroded](results/eroded/with_salt_0.5_0.05_pixel_art_eroded.jpg)|![Diff](results/diff/with_salt_0.5_0.05_pixel_art_diff.jpg)|
+    ![Eroded](results/eroded/with_salt_0.5_0.05_pixel_art_eroded.jpg)
+
+- #### Разностное изображение
+
+    ![Diff](results/diff/with_salt_0.5_0.05_pixel_art_diff.jpg)
