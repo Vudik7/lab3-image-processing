@@ -38,13 +38,13 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/cat.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat.jpg)
+![.](images/cat.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat.jpg)
 
 ### Задание
 
 | **Эрозия (диск)**                                                      | **Разностное**                                                           |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![](images/cat.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat.jpg)   | ![](images/cat.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat.jpg)      |
+| ![.](images/cat.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat.jpg)   | ![.](images/cat.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat.jpg)      |
 
 ---
 
@@ -57,13 +57,13 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/cat.jpg_svsp0.5_amount0.3/with_salt_0.5_0.3_cat.jpg)
+![.](images/cat.jpg_svsp0.5_amount0.3/with_salt_0.5_0.3_cat.jpg)
 
 ### Задание
 
 | **Эрозия (диск)**                                                      | **Разностное**                                                           |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![](images/cat.jpg_svsp0.5_amount0.3/erosion_disk_0.5_0.3_cat.jpg)     | ![](images/cat.jpg_svsp0.5_amount0.3/xor_erosion_0.5_0.3_cat.jpg)        |
+| ![.](images/cat.jpg_svsp0.5_amount0.3/erosion_disk_0.5_0.3_cat.jpg)     | ![.](images/cat.jpg_svsp0.5_amount0.3/xor_erosion_0.5_0.3_cat.jpg)        |
 
 ---
 
@@ -76,13 +76,13 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/cat_invert.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat_invert.jpg)
+![.](images/cat_invert.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat_invert.jpg)
 
 ### Задание
 
 | **Эрозия (диск)**                                                      | **Разностное**                                                           |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![](images/cat_invert.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat_invert.jpg) | ![](images/cat_invert.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat_invert.jpg) |
+| ![.](images/cat_invert.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat_invert.jpg) | ![.](images/cat_invert.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat_invert.jpg) |
 
 ---
 
@@ -95,13 +95,13 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/cat_invert.jpg_svsp0.5_amount0.3/with_salt_0.5_0.3_cat_invert.jpg)
+![.](images/cat_invert.jpg_svsp0.5_amount0.3/with_salt_0.5_0.3_cat_invert.jpg)
 
 ### Задание
 
 | **Эрозия (диск)**                                                      | **Разностное**                                                           |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![](images/cat_invert.jpg_svsp0.5_amount0.3/erosion_disk_0.5_0.3_cat_invert.jpg) | ![](images/cat_invert.jpg_svsp0.5_amount0.3/xor_erosion_0.5_0.3_cat_invert.jpg) |
+| ![.](images/cat_invert.jpg_svsp0.5_amount0.3/erosion_disk_0.5_0.3_cat_invert.jpg) | ![.](images/cat_invert.jpg_svsp0.5_amount0.3/xor_erosion_0.5_0.3_cat_invert.jpg) |
 
 ---
 
@@ -114,13 +114,13 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/cat2.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat2.jpg)
+![.](images/cat2.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_cat2.jpg)
 
 ### Задание
 
 | **Эрозия (диск)**                                                      | **Разностное**                                                           |
 |------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![](images/cat2.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat2.jpg) | ![](images/cat2.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat2.jpg)    |
+| ![.](images/cat2.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_cat2.jpg) | ![.](images/cat2.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_cat2.jpg)    |
 
 ---
 
@@ -133,19 +133,19 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/screen2.png_svsp0.5_amount0.09/with_salt_0.5_0.09_screen2.png)
+![.](images/screen2.png_svsp0.5_amount0.09/with_salt_0.5_0.09_screen2.png)
 
 ### Задание №1
 
 - #### Эрозия (диск)
 
-![](images/screen2.png_svsp0.5_amount0.09/erosion_disk_0.5_0.09_screen2.png)
+![.](images/screen2.png_svsp0.5_amount0.09/erosion_disk_0.5_0.09_screen2.png)
 
 ### Задание №2
 
 - #### Разностное изображение
 
-![](images/screen2.png_svsp0.5_amount0.09/xor_erosion_0.5_0.09_screen2.png)
+![.](images/screen2.png_svsp0.5_amount0.09/xor_erosion_0.5_0.09_screen2.png)
 
 ---
 
@@ -158,19 +158,19 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/spiral1.png_svsp0.5_amount0.1/with_salt_0.5_0.1_spiral1.png)
+![.](images/spiral1.png_svsp0.5_amount0.1/with_salt_0.5_0.1_spiral1.png)
 
 ### Задание №1
 
 - #### Эрозия (диск)
 
-![](images/spiral1.png_svsp0.5_amount0.1/erosion_disk_0.5_0.1_spiral1.png)
+![.](images/spiral1.png_svsp0.5_amount0.1/erosion_disk_0.5_0.1_spiral1.png)
 
 ### Задание №2
 
 - #### Разностное изображение
 
-![](images/spiral1.png_svsp0.5_amount0.1/xor_erosion_0.5_0.1_spiral1.png)
+![.](images/spiral1.png_svsp0.5_amount0.1/xor_erosion_0.5_0.1_spiral1.png)
 
 ---
 
@@ -183,19 +183,19 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/text1.jpg_svsp0.5_amount0.1/with_salt_0.5_0.1_text1.jpg)
+![.](images/text1.jpg_svsp0.5_amount0.1/with_salt_0.5_0.1_text1.jpg)
 
 ### Задание №1
 
 - #### Эрозия (диск)
 
-![](images/text1.jpg_svsp0.5_amount0.1/erosion_disk_0.5_0.1_text1.jpg)
+![.](images/text1.jpg_svsp0.5_amount0.1/erosion_disk_0.5_0.1_text1.jpg)
 
 ### Задание №2
 
 - #### Разностное изображение
 
-![](images/text1.jpg_svsp0.5_amount0.1/xor_erosion_0.5_0.1_text1.jpg)
+![.](images/text1.jpg_svsp0.5_amount0.1/xor_erosion_0.5_0.1_text1.jpg)
 
 ---
 
@@ -208,16 +208,16 @@
 
 - #### Изображение с шумом и перцем
 
-![](images/pixel_art.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_pixel_art.jpg)
+![.](images/pixel_art.jpg_svsp0.5_amount0.05/with_salt_0.5_0.05_pixel_art.jpg)
 
 ### Задание №1
 
 - #### Эрозия (диск)
 
-![](images/pixel_art.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_pixel_art.jpg)
+![.](images/pixel_art.jpg_svsp0.5_amount0.05/erosion_disk_0.5_0.05_pixel_art.jpg)
 
 ### Задание №2
 
 - #### Разностное изображение
 
-![](images/pixel_art.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_pixel_art.jpg)
+![.](images/pixel_art.jpg_svsp0.5_amount0.05/xor_erosion_0.5_0.05_pixel_art.jpg)
