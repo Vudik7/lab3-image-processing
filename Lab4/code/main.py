@@ -32,7 +32,7 @@ operator_gy = np.array([[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]])
 # print()
 # print("bin_image : \n", bin_image)
 T = 124 # парметр границы для бинаризации
-PREFIX = 'Lab3'
+PREFIX = 'Lab4'
 
 filename = "castel.jpg"
 

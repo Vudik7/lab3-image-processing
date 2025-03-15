@@ -90,24 +90,6 @@
 
 ---
 
-<a name="ex4"> <h2>Пример №4</h2> </a>
-
-- #### Исходное изображение
-
-    ![Original](original/cat_invert.jpg)
-
-- #### Изображение с шумом и перцем
-
-    ![With Salt](with_salt/with_salt_0.5_0.3_cat_invert.jpg)
-
-- #### Эрозия
-
-    ![Eroded](results/eroded/with_salt_0.5_0.3_cat_invert_eroded.jpg)
-
-- #### Разностное изображение
-
-    ![Diff](results/diff/with_salt_0.5_0.3_cat_invert_diff.jpg)
-
 ---
 
 <a name="ex5"> <h2>Пример №5</h2> </a>
